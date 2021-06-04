@@ -12,19 +12,19 @@ Although the popularity of BitCoin has caused a price jump that makes it unaffor
 
 We used a K-means algorithm to create buckets which the algorithm put the cryptocurrencies into.  The buckets are from 0-3 as shown below.
 
-
+![K-Means Figure 1](https://github.com/ForTheGold/Cryptocurrencies/blob/main/Resources/kmeans1.png)
 
 Here you can see different information about each of the coins as well as how the algorithm classified them.
 
-
+![K-Means Figure 2](https://github.com/ForTheGold/Cryptocurrencies/blob/main/Resources/kmeans2.png)
 
 Here is a visualization as to how the data points were classified in three dimensions.
 
-
+![Visualization 1](https://github.com/ForTheGold/Cryptocurrencies/blob/main/Resources/visualization.png)
 
 Finally, here is a scatter plot showing the relationship between the number of coins mined and the total supply.
 
-
+![Visualization 2](https://github.com/ForTheGold/Cryptocurrencies/blob/main/Resources/scatter.png)
 
 ## Summary
 
